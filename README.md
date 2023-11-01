@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nagasai Pavan</h1>
+<h1 align="center">Hello, I'm Naga Sai Pavan</h1>
 <h3 align="center">Passionate coder, open-source contributor, and hackathon enthusiast</h3>
 
 <p align="center">
