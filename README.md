@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **pavanvaranasi2002@gmail.com**
 
+- 📝 Check out my <a href="https://nagasaipavan-portfolio.netlify.app/" target="blank">portfolio</a>.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ns-pavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ns-pavan" height="30" width="40" /></a>
