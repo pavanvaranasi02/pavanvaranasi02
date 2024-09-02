@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvaranasi02&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvaranasi02" /> </p>
 
-- 💬 Ask me about **React, Node, Python, Java, SQL**
+- 💬 Ask me about **React, Javascript, Python, Java, Spring, SQL**
 
 - 📫 How to reach me **pavanvaranasi2002@gmail.com**
 
