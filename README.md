@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pavanvaranasi2002@gmail.com**
 
-- 🌐 Check my <a href="https://pavan-varanasi-portfolio.vercel.app/" target="_blank">portfolio here pavan-varanasi-portfolio.vercel.app</a>
+- 🌐 Check my portfolio here: <a href="https://pavan-varanasi-portfolio.vercel.app/" target="_blank">pavan-varanasi-portfolio.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
